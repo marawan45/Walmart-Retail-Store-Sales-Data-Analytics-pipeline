@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of Walmart retail store sales dat
 ## Dashboard
 <img width="1271" height="718" alt="لقطة شاشة 2025-10-20 153122" src="https://github.com/user-attachments/assets/9df58cf5-9954-474a-9dcc-67d518792678" />
 ## -------------------------------------------------
-<img width="1259" height="704" alt="لقطة شاشة 2025-10-20 153202" src="https://github.com/user-attachments/assets/30aa71e2-4ada-4750-9317-efae95f16aa6" />
+<img width="1270" height="717" alt="image" src="https://github.com/user-attachments/assets/e5cfd4dc-1d58-4ca4-9194-07504182eb4b" />
 
 
 ## 🎯 Objectives
